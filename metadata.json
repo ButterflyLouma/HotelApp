@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Booking App",
+  "description": "A simple React web application to browse hotels and view their details, with a basic login mechanism.",
+  "requestFramePermissions": []
+}
